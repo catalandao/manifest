@@ -1,6 +1,13 @@
+---
+Títol: Manifest de la CatalanDAO
+Autor: 
+Estat: Aprovat
+Primera versió: 2021-11-30
+---
+
 # Manifest CatalanDAO v1.0
 
-La CatalanDAO es constitueix en forma de nació digital catalana oberta al món. 
+_La CatalanDAO es constitueix en forma de nació digital catalana oberta al món._
 
 Tothom hi és benvingut i convidat a participar activament en tota mena de projectes i experiments culturals, econòmics i socials per mitjà de les tecnologies descentralitzades de la web3 amb l’objectiu de millorar el benestar de les persones, fomentar la cultura catalana i contribuir a la sostenibilitat del planeta.
 
