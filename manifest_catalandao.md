@@ -1,6 +1,6 @@
 ---
 Títol: Manifest de la CatalanDAO
-Autor: 
+Autor: CatalanDAO
 Estat: Aprovat
 Primera versió: 2021-11-30
 ---
