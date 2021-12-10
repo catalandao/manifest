@@ -5,7 +5,7 @@ Estat: Aprovat
 Primera versió: 2021-11-30
 ---
 
-# Manifest CatalanDAO v1.0
+# Manifest CatalanDAO v1.0 (Català)
 
 _La CatalanDAO es constitueix en forma de nació digital catalana oberta al món._
 
